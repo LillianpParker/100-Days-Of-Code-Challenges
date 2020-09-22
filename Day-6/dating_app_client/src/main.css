@@ -1,0 +1,27 @@
+.title{
+    font-size: 35px;
+}
+
+.main{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+  
+.body {
+    display: flex;
+    flex: 1;
+  }
+
+.content {
+    flex: 1;
+  }
+  
+.nav, .ads{
+    /* 12em is the width of the columns */
+    flex: 0 0 12em;
+}
+
+.nav{
+    order: -1;
+  }

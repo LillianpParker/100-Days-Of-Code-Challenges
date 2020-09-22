@@ -1,6 +1,38 @@
-.DS_store
-**/.DS_store
+Skip to content
+Search or jump to…
 
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@LillianpParker 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+github
+/
+gitignore
+3.2k
+108k57.6k
+Code
+Pull requests
+193
+Actions
+Projects
+Security
+Insights
+gitignore/Rails.gitignore
+@MetaJuanitoFatas
+MetaJuanitoFatas Add /public/uploads for file upload gem Shrine (#3333)
+…
+Latest commit 823e38f on Mar 11
+ History
+ 40 contributors
+@arcresu@sidewinder94@shawndavenport@maxehmookau@jeffrydegrande@defunkt@grossadamm@zellux@yaroslav@wafiq@valentine@tomafro
+69 lines (55 sloc)  1.32 KB
+  
 *.rbc
 capybara-*.html
 .rspec
@@ -70,3 +102,16 @@ yarn-debug.log*
 /storage/*
 !/storage/.keep
 /public/uploads
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
